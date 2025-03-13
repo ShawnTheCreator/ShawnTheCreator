@@ -1,6 +1,8 @@
-## Hi there 👋
+## Hello im Shawn
 
-Computer Science student 
+Computer Science student<br />
+Full Stack Software engineer<br />
+Ai Enthusiast
 
 
 ## 🌐 Socials:
